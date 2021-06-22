@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void OnClickStart(View view){
-        
+        int lol;
     }
 
 }
